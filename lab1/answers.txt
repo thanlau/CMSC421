@@ -1,5 +1,5 @@
 Name:
-NYU ID:
+email:
 
 Collaborators (who you talked to about the lab, what you talked about):
 
@@ -16,10 +16,3 @@ Response to Exercise 5:
 
 
 Anything else you'd like us to know:
-
-
-
-Honors exercises (describe the solution that you coded):
-
-
-Extra credit exercise (describe the solution that you coded):
